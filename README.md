@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavelefros
-- 👀 I’m interested in developing web applications using Java (Spring Boot) and React
+- 👀 I’m interested in developing web applications using Java (Spring Boot)
 - 🌱 I’m currently interested in how to build scalable SaaS applications 
 - 📫 My twitter handle is @efros
 
